@@ -1,4 +1,4 @@
-const config = require('../config')
+mconst config = require('../config')
 const {cmd , commands} = require('../command')
 
 cmd({
