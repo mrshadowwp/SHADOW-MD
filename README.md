@@ -1,4 +1,10 @@
 
+<h1 align="center">Hi 👋, I'm Dark Yasiya</h1>
+<h3 align="center">A Passionate Developer From Sri Lanka</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+
+
 <h1 align="center">SHADOW-MD 2.1.0</h1>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
