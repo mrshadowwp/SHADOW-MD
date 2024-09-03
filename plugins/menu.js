@@ -174,7 +174,11 @@ let dec = `*❯❯ SHADOW MD COMMAND LIST ❮❮*
 
 *╰───────────⚬➨*`
 await conn.sendMessage(from,{image:{url: `https://telegra.ph/file/1b18a9d5c6e02a9b1faa3.jpg`},caption:dec},{quoted:mek});
-
+await conn.sendMessage(from, {
+            audio: { url: 'https://github.com/vipshadowmd/Mainvoice/raw/main/%E0%B7%84%E0%B7%94%E0%B6%AD%E0%B7%8A%E0%B6%AD%E0%B7%9C.mp3' },
+            mimetype: 'audio/mp4',
+            ptt: true
+        }, { quoted: mek });
 }catch(e){
 console.log(e)
 reply(`${e}`)
